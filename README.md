@@ -1,4 +1,4 @@
-# Sales Analysis Exploration with Forecasting
+# Walmart Store Sales Dashboard
 
 ## Power BI Project - Sales Dashboard
 
