@@ -8,13 +8,12 @@ This Power BI project is a thorough exploration of data cleaning, processing, an
 
 - ### Sales Analysis Dashboard 
 
-![Sales Dashboard](![image](https://github.com/user-attachments/assets/e4ed0860-1f99-482b-905c-3e51508f06d8)
-)
+<img width="1014" alt="Screenshot 2024-08-26 at 10 36 48 PM" src="https://github.com/user-attachments/assets/9e1a3d65-ab54-48fd-b6fa-4a09cfe1e892">
+
 
 - ### Forecast
 
-![Sales Forecast](![image](https://github.com/user-attachments/assets/2c9ea459-d786-489a-a95f-046226c415ec)
-)
+<img width="1011" alt="Screenshot 2024-08-26 at 10 37 25 PM" src="https://github.com/user-attachments/assets/22195265-cfd4-45a8-8e75-69e163abb0fc">
 
 
 
